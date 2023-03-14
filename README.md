@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**iZeonic/iZeonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!--
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on mc
 - 🌱 I’m currently learning macros
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: cope
 - 😄 Pronouns: kys/keep yourself safe
 - ⚡ Fun fact: cope harder 
--->
+
